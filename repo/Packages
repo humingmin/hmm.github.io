@@ -1,0 +1,18 @@
+Package: com.cabralcole.forceinpicture
+Name: forceinpicture
+Depends: 
+Architecture: iphoneos-arm
+Description: 强制开启 iOS 画中画场景。
+Maintainer: cole cabral
+Author: cole cabral
+Section: Tweaks
+Version: 8.8.8
+Installed-Size:
+Filename: debs/com.cabralcole.forceinpicture_8.8.8-1_iphoneos-arm.deb
+Size:
+MD5sum:
+SHA1:
+SHA256:
+Icon: 
+SileoDepiction: 
+Depiction:
